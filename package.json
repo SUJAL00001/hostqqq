@@ -1,0 +1,34 @@
+{
+
+  "name": "ImpossibleFancyPentagon",
+
+  "version": "1.0.0",
+
+  "description": "# Discord Custom Vanity URL Moderator",
+
+  "main": "index.js",
+
+  "dependencies": {
+
+    "discord.js": "^12.5.3"
+
+  },
+
+  "devDependencies": {},
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "start": "node index.js"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC"
+
+}
+
